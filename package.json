@@ -1,0 +1,26 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "mi segundo proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tavolordk/spiderverse.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "octavio olea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tavolordk/spiderverse/issues"
+  },
+  "homepage": "https://github.com/Tavolordk/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
