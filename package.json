@@ -4,6 +4,7 @@
   "description": "mi segundo proyecto con node",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "node ./node_modules/.bin/jest"
   },
   "repository": {
